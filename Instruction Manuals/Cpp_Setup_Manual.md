@@ -12,7 +12,7 @@
 ## Install & Setup MinGW Compiler:
 1. Go to this website [MinGW from SorceForge](https://sourceforge.net/projects/mingw/) and download MinGW
 2. Run the downloaded setup and press install
-![[Pasted image 20260323001348.png]]
+![Name](Attachments/Cpp_Setup_Manual/Pasted%20image%2020260323001348.png)
 
 3. Change installation directory if you want, check “…for all users * …” box if you want. Press continue
 ![[Pasted image 20260323001435.png]]
