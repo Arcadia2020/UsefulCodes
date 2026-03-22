@@ -14,7 +14,7 @@ UsefulCodes/
 │   ├── Python version/
 │   └── C++ version/
 │
-├── Auto Clicker/
-│   └── Python version/
+└── Auto Clicker/
+    └── Python version/
 
 ```
