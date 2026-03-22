@@ -12,51 +12,51 @@
 ## Install & Setup MinGW Compiler:
 1. Go to this website [MinGW from SorceForge](https://sourceforge.net/projects/mingw/) and download MinGW
 2. Run the downloaded setup and press install
-![Name](Attachments/Cpp_Setup_Manual/Pasted%20image%2020260323001348.png)
+![Name](../Attachments/Cpp_Setup_Manual/Pasted%20image%2020260323001348.png)
 
-3. Change installation directory if you want, check “…for all users * …” box if you want. Press continue
+4. Change installation directory if you want, check “…for all users * …” box if you want. Press continue
 ![[Pasted image 20260323001435.png]]
 
-4. When the installation is completed, press continue, and MinGW Installation Manager will open
+5. When the installation is completed, press continue, and MinGW Installation Manager will open
 ![[Pasted image 20260323001513.png]]
 
-5. Right-click on each entry under the Package heading and click “Mark for Installation”
+6. Right-click on each entry under the Package heading and click “Mark for Installation”
 ![[Pasted image 20260323001617.png]]
 
-6. Press “Installation” on the top left and click on “Apply Changes”
+7. Press “Installation” on the top left and click on “Apply Changes”
 ![[Pasted image 20260323001649.png]]
 
-7. A window will open, press “Apply” again
+8. A window will open, press “Apply” again
 ![[Pasted image 20260323001710.png]]
 
-8. After the installation is complete press “Close”. If on pressing “Close” the setup says that packages will be discarded then do step 6 again because some files were not downloaded
+9. After the installation is complete press “Close”. If on pressing “Close” the setup says that packages will be discarded then do step 6 again because some files were not downloaded
 ![[Pasted image 20260323001734.png]]
 
-9. Go to the directory where you installed MinGW and open “bin” folder
+10. Go to the directory where you installed MinGW and open “bin” folder
 ![[Pasted image 20260323001836.png]]
 
-10. Now click on the top bar in the folder (Anywhere after bin)
+11. Now click on the top bar in the folder (Anywhere after bin)
 ![[Pasted image 20260323001900.png]]
 
-11. Now copy the directory path
+12. Now copy the directory path
 ![[Pasted image 20260323001930.png]]
 
-12. Search “Environment variables” and open “Edit the system environment variables”
+13. Search “Environment variables” and open “Edit the system environment variables”
 ![[Pasted image 20260323001958.png]]
 
-13. A window will open, click on “Environment Variables”
+14. A window will open, click on “Environment Variables”
 ![[Pasted image 20260323002022.png]]
 
-14. Another window will open. On this window under the “System Variables”, select “Path” and then press “Edit”
+15. Another window will open. On this window under the “System Variables”, select “Path” and then press “Edit”
 ![[Pasted image 20260323002058.png]]
 
-15. Another window will open. Click new and paste the copied directory and press “Ok”
+16. Another window will open. Click new and paste the copied directory and press “Ok”
 ![[Pasted image 20260323002136.png]]
 
-16. Now search cmd and open Command Promp
+17. Now search cmd and open Command Promp
 ![[Pasted image 20260323002204.png]]
 
-17. Now to test if MinGW compiler was successfully installed type “gcc -v” without the quotation marks in Command Prompt and press enter. If you see “gcc is not recognized as an internal or external command” as the output, then you have done something wrong while setting up the environment variable
+18. Now to test if MinGW compiler was successfully installed type “gcc -v” without the quotation marks in Command Prompt and press enter. If you see “gcc is not recognized as an internal or external command” as the output, then you have done something wrong while setting up the environment variable
 ![[Pasted image 20260323002248.png]]
 ---
 ## Install & Stepup Visual Studio Code:
