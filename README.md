@@ -9,9 +9,12 @@ UsefulCodes/
 ├── Instruction Manuals/
 │   └── Cpp_Setup_Manual/
 │
+│
 ├── QR Maker/
 │   ├── Python version/
 │   └── C++ version/
 │
-└── Auto Clicker/
+├── Auto Clicker/
+│   └── Python version/
+
 ```
