@@ -1,15 +1,15 @@
 # UsefulCodes
 These are a series of code projects for specific functions to make life easier
 
-UsefulCodes
-  |_Attachments
-  |  |_Cpp_Setup_Manual
-  |
-  |_Instruction Manuals
-  |  |_Cpp_Setup_Manual
-  |
-  |_QR Maker
-  |  |_ python version
-  |  |_ C++ version
-  |
-  |_Auto Clicker
+UsefulCodes/
+├── Attachments/
+│   └── Cpp_Setup_Manual/
+│
+├── Instruction Manuals/
+│   └── Cpp_Setup_Manual/
+│
+├── QR Maker/
+│   ├── Python version/
+│   └── C++ version/
+│
+└── Auto Clicker/
