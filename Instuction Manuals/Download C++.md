@@ -1,11 +1,11 @@
 
 ---
 # Table of Contents
-#download--setup-for-windows
-#install--setup-mingw-compiler
-#install--stepup-visual-studio-code
-#download--setup-for-mac
-#install--setup-for-vscode--clang
+- [Download & Setup for Windows](#download--setup-for-windows)
+  - [Install & Setup MinGW Compiler:](#install--setup-mingw-compiler)
+  - [Install & Stepup Visual Studio Code:](#install--stepup-visual-studio-code)
+- [Download & Setup for Mac](#download--setup-for-mac)
+  - [Install & Setup for VSCode + Clang](#install--setup-for-vscode--clang)
 
 ---
 # Download & Setup for Windows
