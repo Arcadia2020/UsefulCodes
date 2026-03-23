@@ -129,7 +129,7 @@ void generate_qr_code(const string& text, const string& filename, int box_size =
                  PNG_INTERLACE_NONE,          // No interlacing (progressive load) — simpler format
                  PNG_COMPRESSION_TYPE_DEFAULT,// Standard zlib compression
                  PNG_FILTER_TYPE_DEFAULT);    // Standard PNG row filtering (improves compression)
-    // IHDR = "Image HeaDer" — the first required chunk in every PNG file
+                                              // IHDR = "Image HeaDer" — the first required chunk in every PNG file
 
     png_write_info(png, info);
     // Flushes the header metadata (IHDR chunk and others) to the file
@@ -144,6 +144,7 @@ void generate_qr_code(const string& text, const string& filename, int box_size =
             row[x * 3 + 0] = pixels[y][x][0];   // Red channel   of pixel at column x
             row[x * 3 + 1] = pixels[y][x][1];   // Green channel of pixel at column x
             row[x * 3 + 2] = pixels[y][x][2];   // Blue channel  of pixel at column x
+            
             // x * 3 → each pixel occupies 3 consecutive bytes in the flat array
         }
 
