@@ -18,8 +18,8 @@ UsefulCodes/
 │   └── Cpp_Setup_Manual
 │
 ├── Instruction Manuals/
-│   └── Cpp_Setup_Manual
-│
+│   └── Cpp Setup Manual
+│   └── Install Android Studio
 │
 ├── QR Maker/
 │   ├── Python version
@@ -27,7 +27,6 @@ UsefulCodes/
 │
 ├── Auto Clicker/
 │   └── Python version
-│
 │
 └── README.md
 ```
