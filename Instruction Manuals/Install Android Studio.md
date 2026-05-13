@@ -54,7 +54,7 @@ To install Android Studio on Windows, follow these steps:
 
 The following video shows each step of the setup procedure for the recommended `.exe` download:
 
-<video controls=""><source src="https://developer.android.com/static/studio/videos/studio-install-windows.mp4" type="video/mp4"></video>
+[![Watch Windows Setup](https://custom-icon-badges.demolab.com/badge/Video-Play_Setup-0078D4?style=for-the-badge&logo=windows)](https://developer.android.com/static/studio/videos/studio-install-windows.mp4)
 
 Android Studio notifies you with a dialog when new tools and other APIs become available. To manually check for updates, click **Help > Check for Update**.
 
@@ -80,7 +80,8 @@ To install Android Studio on your Mac, follow these steps:
 
 The following video shows each step of the recommended setup procedure:
 
-<video controls=""><source src="https://developer.android.com/static/studio/videos/studio-install-mac.mp4" type="video/mp4"></video>
+[![Watch macOS Setup](https://img.shields.io/badge/Video-Play_Setup-000000?style=for-the-badge&logo=apple)](https://developer.android.com/static/studio/videos/studio-install-mac.mp4)
+
 
 Android Studio notifies you with a dialog when new tools and other APIs become available. To manually check for updates, click **Android Studio > Check for Updates**.
 
@@ -123,7 +124,7 @@ sudo yum install zlib.i686 ncurses-libs.i686 bzip2-libs.i686
 
 The following video shows each step of the recommended setup procedure:
 
-<video controls=""><source src="https://developer.android.com/static/studio/videos/studio-install-linux.mp4" type="video/mp4"></video>
+[![Watch Linux Setup](https://img.shields.io/badge/Video-Play_Setup-FCC624?style=for-the-badge&logo=linux)](https://developer.android.com/static/studio/videos/studio-install-linux.mp4)
 
 Android Studio notifies you with a dialog when new tools and other APIs become available. To manually check for updates, click **Help > Check for Update**.
 
